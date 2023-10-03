@@ -1,0 +1,10 @@
+    body {background-color: rgb(196, 38, 162);}
+    hr {border-color: white;
+    border-style:none;
+    border-top-style: dotted;
+    height: 0cm;
+    width: 4%;
+    border-top-width: 3px;}
+    h1{color: #66bfbf;}
+    h3{color: #66bfbf;
+    font-style: italic;}
